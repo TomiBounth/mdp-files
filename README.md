@@ -1,2 +1,2 @@
 # mdp-files
-archivos mdp
+Archivos .mdp para Medibang Paint Pro
